@@ -1,2 +1,3 @@
 # USB-Boot-Authentication
-A security mechanism where a uniquely-keyed USB device is required as part of the authentication process at boot time in Unix.
+Provided authentication to Unix-based systems such as NetBSD and MINIX 3 by incorporating a uniquely keyed USB device as part
+of the boot process, thus adding an additional layer of security to such systems.
